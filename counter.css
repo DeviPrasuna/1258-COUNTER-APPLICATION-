@@ -1,0 +1,43 @@
+.para {
+    font-size:150px;
+    font-weight: 900;
+    font-family: roboto;
+}
+.head {
+    font-size: 80px;
+    font-weight: 900;
+    font-family: roboto;
+}
+.btn1 {
+    width: 200px;
+    height: 50px;
+    background-color:hotpink;
+    border-radius: 10px;
+    font-family: roboto;
+    font-size: 20px;
+    margin: 10px;
+}
+.btn2 {
+    width: 200px;
+    height: 50px;
+    background-color:greenyellow;
+    border-radius: 10px;
+    font-family: roboto;
+    font-size: 20px;
+    margin: 10px;
+}
+.btn3 {
+    width: 200px;
+    height: 50px;
+    background-color:red;
+    border-radius: 10px;
+    font-family: roboto;
+    font-size: 20px;
+    margin: 10px;
+}
+.bgcontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: chocolate;
+}
